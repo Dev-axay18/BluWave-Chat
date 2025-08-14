@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.BluWaveChat" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="android:colorPrimary">@color/neon_purple</item>
+        <item name="android:colorPrimaryVariant">@color/deep_navy</item>
+        <item name="android:colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="android:colorSecondary">@color/hot_pink</item>
+        <item name="android:colorSecondaryVariant">@color/electric_blue</item>
+        <item name="android:colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/deep_navy</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/deep_navy</item>
+    </style>
+</resources>
