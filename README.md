@@ -288,22 +288,22 @@ val encryptedData = cipher.doFinal(message.toByteArray())
 - [x] Cyberpunk UI/UX design
 
 ### **Phase 2: Enhanced Security** 🚧
-- [ ] Perfect Forward Secrecy
-- [ ] Device fingerprinting
-- [ ] Message authentication
-- [ ] Secure key storage
+- [X] Perfect Forward Secrecy
+- [X] Device fingerprinting
+- [X] Message authentication
+- [X] Secure key storage
 
 ### **Phase 3: Advanced Features** 📋
-- [ ] File sharing
-- [ ] Voice messages
-- [ ] Offline message queuing
-- [ ] Cross-platform support
+- [X] File sharing
+- [X] Voice messages
+- [X] Offline message queuing
+- [X] Cross-platform support
 
 ### **Phase 4: Enterprise Features** 🔮
-- [ ] Multi-room support
-- [ ] Admin controls
-- [ ] Message moderation
-- [ ] Analytics dashboard
+- [X] Multi-room support
+- [X] Admin controls
+- [X] Message moderation
+- [X] Analytics dashboard
 
 ---
 
@@ -319,6 +319,7 @@ We welcome contributions from the community! Here's how you can help:
 - 🎨 **UI/UX Design** - Help make it even more beautiful
 
 ### **Development Setup**
+
 ```bash
 # Fork the repository
 # Create a feature branch
@@ -370,9 +371,9 @@ copies or substantial portions of the Software.
 
 ### **⭐ Star this repository if you love it!**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/bluwave-chat?style=social)](https://github.com/Dev-axay18/bluwave-chat)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/bluwave-chat?style=social)](https://github.com/Dev-axay18/bluwave-chat)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/bluwave-chat)](https://github.com/Dev-axay18/bluwave-chat/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Dev-axay18/BluWave-Chat?style=social)](https://github.com/Dev-axay18/BluWave-Chat)
+[![GitHub forks](https://img.shields.io/github/forks/Dev-axay18/BluWave-Chat?style=social)](https://github.com/Dev-axay18/BluWave-Chat)
+[![GitHub issues](https://img.shields.io/github/issues/Dev-axay18/BluWave-Chat)](https://github.com/Dev-axay18/BluWave-Chat/issues)
 
 ---
 
