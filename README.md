@@ -11,6 +11,9 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 ---
+<p align="center">
+  <img src="https://github.com/Dev-axay18/BluWave-Chat/blob/main/Assets/BluWave%20Chat.gif?raw=true" alt="Project Banner" width="1000">
+</p>
 
 ### 🚀 **Revolutionary Bluetooth Group Chat Experience**
 
@@ -20,32 +23,58 @@
 
 </div>
 
-## ✨ **Features That Will Blow Your Mind**
+## ✨ 🚀 **Features That Will Blow Your Mind**
+
+---
 
 ### 🔐 **Military-Grade Security**
-- **X25519 Key Exchange** for bulletproof authentication
-- **XChaCha20-Poly1305 Encryption** for unbreakable messages
-- **End-to-End Encryption** - even the host can't read your messages
-- **Perfect Forward Secrecy** with dynamic session keys
+> <sub>Because privacy isn’t a feature — it’s your right 🔒</sub>
+
+💠 **X25519 Key Exchange** → Bulletproof authentication  
+💠 **XChaCha20-Poly1305 Encryption** → Unbreakable messages  
+💠 **End-to-End Encryption** → Even the host can’t peek  
+💠 **Perfect Forward Secrecy** → Dynamic session keys for every chat  
+
+---
 
 ### 🌐 **Bluetooth-Powered Communication**
-- **No Internet Required** - works anywhere, anytime
-- **Star Topology Network** - one host, up to 6 clients
-- **Automatic Reconnection** when devices move in/out of range
-- **Real-time Message Forwarding** with zero latency
+> <sub>No internet? No problem. Your own secure mesh network 🌐</sub>
+
+⚡ **No Internet Required** — Works anywhere, anytime  
+⚡ **Star Topology** — 1 host, up to 6 clients  
+⚡ **Auto-Reconnect** — Move in/out of range seamlessly  
+⚡ **Zero Latency** — Real-time message forwarding  
+
+---
 
 ### 🎨 **Cyberpunk UI/UX Masterpiece**
-- **Glassmorphism Design** with blurred glass panels
-- **Neon Gradient Themes** - deep navy to electric blue
-- **Smooth Animations** with spring physics and easing curves
-- **MotionLayout Transitions** for seamless navigation
-- **Floating Action Buttons** with ripple effects
+> <sub>Designed to make your eyes say "whoa" 👁️✨</sub>
+
+🌌 **Glassmorphism Panels** — Blurred & futuristic  
+🌌 **Neon Gradient Themes** — Deep navy → electric blue  
+🌌 **Smooth Animations** — Spring physics + easing curves  
+🌌 **MotionLayout Transitions** — Seamless navigation  
+🌌 **Floating Action Buttons** — Ripple effects, baby  
+
+---
 
 ### 📱 **Modern Android Architecture**
-- **100% Jetpack Compose** - no XML layouts
-- **MVVM Pattern** with clean separation of concerns
-- **Kotlin Coroutines + Flow** for reactive programming
-- **Material Design 3** with custom theming
+> <sub>Built for speed, scalability, and style 📱</sub>
+
+📲 **100% Jetpack Compose** — No XML layouts  
+📲 **MVVM Pattern** — Clean separation of concerns  
+📲 **Kotlin Coroutines + Flow** — Reactive, responsive  
+📲 **Material Design 3** — Custom themes & adaptive layouts  
+
+---
+
+<div align="center">
+  
+![Static Badge](https://img.shields.io/badge/Encryption-🔐_Active-purple?style=for-the-badge&logo=protonmail&logoColor=white)
+![Static Badge](https://img.shields.io/badge/UI-🎨_Cyberpunk-blueviolet?style=for-the-badge&logo=android&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Framework-⚡_Jetpack_Compose-orange?style=for-the-badge&logo=kotlin&logoColor=white)
+
+</div>
 
 ---
 
@@ -75,48 +104,98 @@ graph TB
 
 ---
 
-## 🛠️ **Technology Stack**
-
-| **Layer** | **Technology** | **Purpose** |
-|-----------|----------------|-------------|
-| **UI Framework** | Jetpack Compose | Modern declarative UI |
-| **Architecture** | MVVM + Clean Architecture | Scalable code structure |
-| **Asynchronous** | Kotlin Coroutines + Flow | Reactive programming |
-| **Bluetooth** | Android Bluetooth Classic RFCOMM | Device communication |
-| **Encryption** | X25519 + XChaCha20-Poly1305 | Military-grade security |
-| **Animations** | MotionLayout + Accompanist | Smooth user experience |
-| **Dependency Injection** | Hilt (planned) | Clean dependency management |
+## 🛠️ ⚡ **Technology Stack – Powering the Future**
 
 ---
 
-## 🚀 **Quick Start**
+<table>
+  <tr>
+    <th align="center">⚙️ <strong>Layer</strong></th>
+    <th align="center">🖥️ <strong>Technology</strong></th>
+    <th align="center">🎯 <strong>Purpose</strong></th>
+  </tr>
+  <tr>
+    <td align="center"><strong>UI Framework</strong></td>
+    <td align="center"><code>Jetpack Compose</code></td>
+    <td align="center">✨ Modern declarative UI with dynamic theming</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Architecture</strong></td>
+    <td align="center"><code>MVVM + Clean Architecture</code></td>
+    <td align="center">🏗️ Scalable & maintainable code structure</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Asynchronous</strong></td>
+    <td align="center"><code>Kotlin Coroutines + Flow</code></td>
+    <td align="center">⚡ Reactive & concurrent programming</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Bluetooth</strong></td>
+    <td align="center"><code>Android Bluetooth Classic RFCOMM</code></td>
+    <td align="center">📡 Reliable device-to-device communication</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Encryption</strong></td>
+    <td align="center"><code>X25519 + XChaCha20-Poly1305</code></td>
+    <td align="center">🔐 Military-grade message security</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Animations</strong></td>
+    <td align="center"><code>MotionLayout + Accompanist</code></td>
+    <td align="center">🎨 Fluid & cinematic transitions</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Dependency Injection</strong></td>
+    <td align="center"><code>Hilt (Planned)</code></td>
+    <td align="center">🛡️ Clean & modular dependency management</td>
+  </tr>
+</table>
 
-### **Prerequisites**
-- Android Studio Arctic Fox or later
-- Android SDK 24+ (Android 7.0+)
-- Bluetooth-enabled Android device
-- Minimum 2GB RAM for development
+---
 
-### **Installation**
+## 🚀 **Quick Start – Your Journey Begins**
 
+---
+
+### 🛠️ **Prerequisites**
+> <sub>Before we warp into the future, make sure you’re armed with these essentials.</sub>  
+
+✅ **Android Studio** – Arctic Fox or later  
+✅ **Android SDK 24+** – Android 7.0 or higher  
+✅ **Bluetooth-enabled Android device** – 📡 Ready to connect  
+✅ **Minimum 2GB RAM** – For smooth development rides  
+
+---
+
+### 📦 **Installation**
+> <sub>Let’s deploy your very own BluWave Chat in minutes.</sub>  
+
+### 1️⃣ Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/yourusername/bluwave-chat.git
-
-# Navigate to project directory
-cd bluwave-chat
-
-# Open in Android Studio
-# Sync Gradle files
-# Build and run on device
 ```
 
-### **First Run**
-1. **Grant Bluetooth Permissions** when prompted
-2. **Choose Mode**: Host Chat or Join Chat
-3. **Host Mode**: Wait for devices to connect
-4. **Join Mode**: Select host device from list
-5. **Start Chatting**: Messages are automatically encrypted
+### 2️⃣ Navigate to the project directory
+```bash
+cd bluwave-chat
+```
+
+### 3️⃣ Open in Android Studio
+### 4️⃣ Sync Gradle files
+### 5️⃣ Build & run on your device
+
+---
+
+### 🎯 **First Run – Engage!**
+
+> <sub>From zero to encrypted chat in seconds.</sub>
+
+1️⃣ **Grant Bluetooth Permissions** – The app will ask, you just say yes
+2️⃣ **Choose Mode** – Host Chat 🖥️ or Join Chat 📱
+3️⃣ **Host Mode** – Wait for nearby devices to link in
+4️⃣ **Join Mode** – Select your host from the available list
+5️⃣ **Start Chatting** – All messages are 🔐 **end-to-end encrypted**
+
 
 ---
 
@@ -277,16 +356,6 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 ```
 
----
-
-## 🙏 **Acknowledgments**
-
-- **Android Team** for the amazing Jetpack Compose framework
-- **Material Design Team** for the beautiful design system
-- **Cryptography Community** for the robust encryption algorithms
-- **Open Source Contributors** who inspire us every day
-
----
 
 ## 📞 **Support & Contact**
 
@@ -294,22 +363,20 @@ copies or substantial portions of the Software.
 
 ### **Get in Touch**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bluwavechat)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bluwavechat)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@bluwavechat.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-axay18)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaleakshay8856@gmail.com)
 
 ---
 
 ### **⭐ Star this repository if you love it!**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/bluwave-chat?style=social)](https://github.com/yourusername/bluwave-chat)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/bluwave-chat?style=social)](https://github.com/yourusername/bluwave-chat)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/bluwave-chat)](https://github.com/yourusername/bluwave-chat/issues)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/bluwave-chat?style=social)](https://github.com/Dev-axay18/bluwave-chat)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/bluwave-chat?style=social)](https://github.com/Dev-axay18/bluwave-chat)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/bluwave-chat)](https://github.com/Dev-axay18/bluwave-chat/issues)
 
 ---
 
-**Made with ❤️ by the BluWave Chat Team**
+**Made with ❤️ by the Akshay Kale**
 
 *"Secure communication should be beautiful"*
 
